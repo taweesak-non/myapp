@@ -1,4 +1,4 @@
-# NON-PROJECT
+# pj
 
 ## Project setup
 ```
