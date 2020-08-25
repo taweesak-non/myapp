@@ -91,7 +91,7 @@ CREATE TABLE `login` (
 
 INSERT INTO `login` (`user_id`, `name`, `password`, `email`, `role`) VALUES
 (1, 'Taweesak Yimsaoroui', 'admin', 'admin@gmail.com', 'admin'),
-(2, 'mookodhod', '0', 'mookodhod@gmail.com', 'employee'),
+(2, 'mookodhod', '12345', 'mookodhod@gmail.com', 'employee'),
 (3, 'ทวีศักดิ์ ยิ้มสำรวย', '1150', 'nonza@hotmail.com', 'employee');
 
 --
